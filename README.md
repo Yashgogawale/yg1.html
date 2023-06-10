@@ -1,2 +1,1 @@
-# yg1.html
-This is created with Yash Gogawale...
+
